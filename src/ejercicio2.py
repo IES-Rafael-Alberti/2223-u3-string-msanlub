@@ -4,6 +4,8 @@
 fruta = "fruta"
 print(fruta[:])
 '''imprime todos los caracteres de fruta (fruta)'''
+
+
 print(fruta[:1])
 '''imprime el segundo caracter (r)'''
 print(fruta[:-1])
